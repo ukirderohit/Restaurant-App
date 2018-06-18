@@ -1,7 +1,7 @@
 # Restaurant Application
 Designed Single Page Application using AngularJS
 
-[Restaurant Application - Demo](http://ukirderohit.me/Restaurant-App/app/index.html)
+[Restaurant Application - Demo](https://ukirderohit.com/Restaurant-App/app/index.html)
 
 
 
